@@ -1,0 +1,5 @@
+xrpl-py==3.0.0
+base58==2.1.1
+certifi==2024.8.30
+httpx==0.24.1
+pycryptodome==3.20.0
